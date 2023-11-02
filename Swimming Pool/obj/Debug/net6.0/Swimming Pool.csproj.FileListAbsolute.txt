@@ -1,0 +1,64 @@
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\appsettings.Development.json
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\appsettings.json
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swimming Pool.exe
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swimming Pool.deps.json
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swimming Pool.runtimeconfig.json
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swimming Pool.dll
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swimming Pool.pdb
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.csproj.AssemblyReference.cache
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.GeneratedMSBuildEditorConfig.editorconfig
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.AssemblyInfoInputs.cache
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.AssemblyInfo.cs
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.csproj.CoreCompileInputs.cache
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.MvcApplicationPartsAssemblyInfo.cs
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.MvcApplicationPartsAssemblyInfo.cache
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets\msbuild.Swimming Pool.Microsoft.AspNetCore.StaticWebAssets.props
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets\msbuild.build.Swimming Pool.props
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Swimming Pool.props
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Swimming Pool.props
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets.pack.json
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets.build.json
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets.development.json
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\scopedcss\bundle\Swimming Pool.styles.css
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.csproj.CopyComplete
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.dll
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\refint\Swimming Pool.dll
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.pdb
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.genruntimeconfig.cache
+F:\AHandesaim2\‏‏Net core\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\ref\Swimming Pool.dll
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.csproj.AssemblyReference.cache
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.AssemblyInfoInputs.cache
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.AssemblyInfo.cs
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.csproj.CoreCompileInputs.cache
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.dll
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\refint\Swimming Pool.dll
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.pdb
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\appsettings.json
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swimming Pool.exe
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swimming Pool.deps.json
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swimming Pool.runtimeconfig.json
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swimming Pool.dll
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swimming Pool.pdb
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets\msbuild.Swimming Pool.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets\msbuild.build.Swimming Pool.props
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Swimming Pool.props
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Swimming Pool.props
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\scopedcss\bundle\Swimming Pool.styles.css
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.csproj.CopyComplete
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\Swimming Pool.genruntimeconfig.cache
+C:\Users\aviga\Desktop\Handasim2\Netcore\lesson6\Swimming Pool\Swimming Pool\obj\Debug\net6.0\ref\Swimming Pool.dll
